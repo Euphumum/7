@@ -1,4 +1,4 @@
-#
+# Stating who knows binary and who doesn't
 x = "There are %d types of people." % 10
 binary = "binary"
 doNot = "don't"
