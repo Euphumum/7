@@ -1,3 +1,4 @@
+#
 x = "There are %d types of people." % 10
 binary = "binary"
 doNot = "don't"
@@ -8,13 +9,12 @@ print(y)
 
 print("I said: %r " % x)
 print("I also said: '%s'," % y)
-
+# stating whether or  ot the joke was funny
 hilarious = False
 joke_evaluation = "Isn't that joke so funny?! %r"
 print(joke_evaluation % hilarious)
-
+# There is two strings creating one whole line when they are added together.
 w = "This is the left side of ..."
 e = "a string with a right side"
 
 print(w + e)
-
