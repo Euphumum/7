@@ -84,3 +84,40 @@ print(tabbycat)
 print(persiancat)
 print(backlashcat)
 print(taskcat)
+
+# Escape seq          What does it do
+
+# \\
+# \'
+# \"
+# \a
+# \b
+# \f
+# \n
+# \N(name)
+# \r
+# \t
+# \uxxx
+# \Uxxxxxxxx
+# \v
+# \ooo
+# \xhh
+
+#It allows for coding of multiple lines and tasks in one set of code,
+
+
+
+
+
+
+
+
+
+
+
+# What's the following do:
+# while True:
+#      for i in(("/","-","|","\\","|")
+#      print(%s\r" %i,end ='')
+
+# Can you replace *** with '''?
