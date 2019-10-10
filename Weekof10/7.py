@@ -103,7 +103,7 @@ print(taskcat)
 # \ooo
 # \xhh
 
-#It allows for coding of multiple lines and tasks in one set of code,
+# It allows for coding of multiple lines and tasks in one set of code,
 
 
 # What's the following do:
@@ -111,4 +111,33 @@ print(taskcat)
 #      for i in(("/","-","|","\\","|")
 #      print(%s\r" %i,end ='')
 
-# Can you replace *** with '''?
+# Can you replace *** with '''?\
+
+# Asking questions
+
+age = input("How old are you?")
+height = input("How tall are you ?")
+
+print("So, you really $r old and %r tall? Wow..." % (age,height))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
